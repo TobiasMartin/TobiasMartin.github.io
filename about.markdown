@@ -1,18 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I defended my PhD thesis in June 2021 at the Department of Civil and Environmental Engineering, NTNU Trondheim, Norway. I worked on the numerical modelling of fluid-structure interaction including non-linear structures and complex free surfaces. Currently, I am studying Philosophy at the University of Oslo, Norway.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![image-title-here](/assets/images/tobiasmartin.jpg){:class="img-responsive"}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+{% include showpdf.html content="CV.pdf" %}
