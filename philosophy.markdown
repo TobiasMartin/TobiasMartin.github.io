@@ -4,9 +4,9 @@ title: Philosophy
 permalink: /philosophy/
 ---
 
-In 2021, I enrolled in philosophy courses at the University of Oslo to better reflect upon ethical questions regarding technology and its impact on nature - an aspect which was missing in my previous degrees. Ultimately, I decided to align my actions with my core beliefs about the importance of the humanities for solving environmental issues by studying philosophy at the University of Oslo.
+In 2021, I enrolled in philosophy courses at the University of Oslo to better reflect upon ethical questions regarding technology and its impact on nature. I finished a bachelor degree in philosophy in 2023.
 
-Here, my main interest is philosophy of nature which includes philosophy of mind and environmental philosophy to me. Here, I focus on ontopoetics and how it informs ecocentrical ethics. I am also interested in the cultural dimension of philosophy and how intercultural thinking can contribute to the Western tradition of continental philosophy.
+My main interest is philosophy of nature which includes philosophy of mind and environmental philosophy. Here, I focus on process ontologies and how it can inform ecocentrical ethics. I am also interested in the cultural dimension of philosophy and how intercultural thinking can contribute to the Western tradition of continental philosophy.
 
 # Essays
 <ul>
